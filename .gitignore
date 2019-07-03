@@ -1,0 +1,2 @@
+# Ignore RSA keys and log files
+ssh-honeypot.*
